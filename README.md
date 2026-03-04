@@ -328,7 +328,7 @@ pip install requests pandas openpyxl matplotlib reportlab
 
 ## 📝 重要備註
 
-- **資料來源**：瑞銀集團基金 BCD 平台（`fund.bot.com.tw`）
+- **資料來源**：基金大觀園平台（`fund.bot.com.tw`）
 - **中文字型**（PDF 報告）：`D:\fonts\NotoSansTC-Regular.ttf`（思源黑體），不存在時自動降級
 - **時區**：API 回傳資料為台灣時間
 - **更新頻率**：建議每週一上午執行，報告涵蓋上一個完整交易週
