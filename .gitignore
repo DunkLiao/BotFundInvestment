@@ -1,3 +1,5 @@
 .vscode/settings.json
 *.xlsx
 !fund_list.xlsx
+charts/
+*.pdf
